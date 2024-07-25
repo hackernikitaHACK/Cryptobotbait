@@ -1,0 +1,1 @@
+$result = $telegram->setWebhook($config['webhook']['http://https://reversotype.static.domains/']);
